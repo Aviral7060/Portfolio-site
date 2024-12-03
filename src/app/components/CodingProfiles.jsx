@@ -7,18 +7,14 @@ const codingProfiles = [
   {
     name: "LeetCode",
     logo: "/leet.png",
-    url: "https://leetcode.com/u/ayush2002agarwal/",
+    url: "https://leetcode.com/u/Aviral70/",
   },
   {
     name: "GeeksforGeeks",
     logo: "/gfg.png",
-    url: "https://www.geeksforgeeks.org/user/ayush2002agarwal/",
+    url: "https://www.geeksforgeeks.org/user/21ucss59u/",
   },
-  {
-    name: "CSES",
-    logo: "/cs.jpeg",
-    url: "https://cses.fi/user/254775",
-  },
+ 
 ];
 
 const CodingProfilesSection = () => {

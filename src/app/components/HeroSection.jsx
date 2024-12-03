@@ -22,13 +22,13 @@ const HeroSection = () => {
             <br />
             <TypeAnimation
               sequence={[
-                "Ayush",
+                "Aviral",
                 1000,
                 "Web Developer",
                 1000,
                 "Coder",
                 1000,
-                "FinTech Enthusiast",
+                "Tech Enthusiast",
                 1000,
               ]}
               wrapper="span"
@@ -37,11 +37,11 @@ const HeroSection = () => {
             />
           </h1>
           <p className="text-[#ADB7BE] text-base sm:text-lg mb-6 lg:text-xl">
-  I am a passionate tech explorer constantly seeking new knowledge and
-  innovations in the ever-evolving world of technology. With a strong
-  curiosity and dedication, I aim to contribute to the tech industry by
-  learning new skills, building meaningful projects, and collaborating
-  with like-minded individuals to push the boundaries of what&apos;s possible.
+          An enthusiastic pre-final year student, pursuing a B.Tech in Computer Science and Engineering from The LNM Institute of Information
+Technology, exhibits a fervent passion for learning. Eager to explore fresh opportunities and tackle novel challenges, this individual is
+ever-ready to absorb new technologies and apply them where necessary. Possessing a keen interest in problem-solving and web
+development, their enthusiasm drives them towards continuous growth and innovation.
+
 </p>
           <div>
             <Link
@@ -52,7 +52,7 @@ const HeroSection = () => {
             </Link>
             <a
               href="/cv.pdf"
-              download="Ayush_CV.pdf"
+              download="Aviral_CV.pdf"
               className="px-1 inline-block py-1 w-full sm:w-fit rounded-full bg-gradient-to-br from-primary-500 to-secondary-500 hover:bg-slate-800 text-white mt-3"
             >
               <span className="block bg-[#121212] hover:bg-slate-800 rounded-full px-5 py-2">

@@ -21,10 +21,10 @@ const ContactSection = () => {
           I&apos;m currently looking for new opportunities. Feel free to connect with me on LinkedIn or check out my projects on GitHub!
         </p>
         <div className="socials flex flex-row gap-4">
-          <Link href="https://github.com/ayush-1-2-0-5" className="transform transition-transform hover:scale-110">
+          <Link href="https://github.com/Aviral7060/" className="transform transition-transform hover:scale-110">
             <Image src={GithubIcon} alt="Github Icon" width={40} height={40} />
           </Link>
-          <Link href="https://www.linkedin.com/in/ayush-agarwal-b5b0b01a1/" className="transform transition-transform hover:scale-110">
+          <Link href="https://www.linkedin.com/in/1404-aviral-jain/" className="transform transition-transform hover:scale-110">
             <Image src={LinkedinIcon} alt="Linkedin Icon" width={40} height={40} />
           </Link>
         </div>
