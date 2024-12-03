@@ -11,7 +11,7 @@ const TAB_DATA = [
       <ul className="list-disc pl-5">
         <li>Node.js</li>
         <li>Express</li>
-        <li>PostgreSQL</li>
+        <li>MySQL</li>
         <li>Data Structures</li>
         <li>Algorithms</li>
         <li>C++</li>
